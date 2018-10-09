@@ -1,0 +1,6 @@
+UseMoneyManagement = true - you can choose 'false' if you want to let it trade with fixed number of lots, 'true' is recommended.
+Lots = 0.1 - if you don't use Money Management, you should specify the lots the EA will trade here.
+LotsDecimals = 2 - the rounding of lots. If you leave 2 there, it will use microlots precision, for example 0.75 lots. 
+If you set it to 1, it will round it to minilots, for example 0.7 lots. This depends on your broker. If they don't support microlots you should set it to 1.
+RiskInPercent = 5 - this means the EA wil wisk 5% of your account per every trade. This is recommended setting.
+MaximumLots = 2 - maximum amount of lots allowed to trade. This is a protection, the EA will never trade with more lots than specified here.

@@ -1,0 +1,15 @@
+TakeProfit=430.00000000
+TakeProfit,F=1
+TakeProfit,1=50.00000000
+TakeProfit,2=10.00000000
+TakeProfit,3=500.00000000
+Lots=0.04000000
+Lots,F=1
+Lots,1=0.01000000
+Lots,2=0.01000000
+Lots,3=0.05000000
+StopLoss=320.00000000
+StopLoss,F=1
+StopLoss,1=100.00000000
+StopLoss,2=10.00000000
+StopLoss,3=500.00000000
